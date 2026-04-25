@@ -1,0 +1,18 @@
+# Fizzbuzz 2 (Lab 3, Q2)
+
+Write a Java program that prints a sequence of messages based on the fizzbuzz rules below. Your program should have two variables called **start** and **end**, the range in which to print messages (inclusive).
+
+- If the value in "num" is divisible by 3, your program should print "fizz".
+- If the value in "num" is divisible by 5, your program should print "buzz".
+- If the value in "num" is divisible by both 3 and 5, your program should print "fizzbuzz".
+- If the value in "num" is divisible by neither 3 nor 5, your program should simply print the value of num.
+
+You must use a series of **if, else if and else** statements to solve this problem, along with a **for loop**.
+
+> **Note:** You must use the variable names given. You must print all values on one line, space separated.
+
+### Sample inputs/outputs
+| Input (start, end) | Output |
+| :--- | :--- |
+| 2, 3 | 2 fizz |
+| 10, 15 | buzz 11 fizz 13 14 fizzbuzz |
