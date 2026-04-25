@@ -1,4 +1,4 @@
-# Modulus Operator
+# Modulus Operator (Lab 1, Q6)
 
 Write a Java program that uses an int variable called num that stores a 4 digit number.
 
