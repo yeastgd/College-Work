@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = 'utf-8'/>
+        <title>Assignment 2</title>
+        <link rel = "stylesheet" href="style.css">
+        <script src = "script.js"></script>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="">Tasks</a>
+                <a href="">Profile</a>
+            </nav>
+            <h1 class = "head">My Studying Dashboard</h1>
+            <p id = 'welcome-message'></p>
+        </header>
+        <main class = "container">
+            <section class = "card profile-card">
+                <div class = "profile-header">
+                    <h1>Sofia Orieshkina</h1>  
+                    <img src = "Me.jpg" alt = "My photo" class = "circular-image">
+                </div>
+                <p>I am second Year Computer Science Stident and I am interested in Web Dev.</p>
+            </section>
+            <section class = "card">
+                <h1>Weekly Goals</h1>
+                <ul>
+                    <li>Learn Java</li>
+                    <li>Read Theory of Computation</li>
+                    <li>Learn JavaScript</li>
+                    <li>Review Ubuntu</li>
+                </ul>
+                <button>Show Goals</button>
+            </section>
+            <section class = "card">
+                <h1>Study Status</h1>
+                <p class = "status">Status: </p>
+                <button id="toggle-status">Change status</button>
+                <p>Study Sessions today: 0</p>
+                <button>Add Session</button>
+                <button>Reset</button>
+            </section>
+        </main>
+        <footer>
+            <p>© 2026 Sofia Orieshkina | CS230</p>
+            <p>Last Update: Feb 2026</p>
+            <p>This page is for study tracking.</p>
+        </footer>
+    </body>
+</html>
