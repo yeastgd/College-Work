@@ -12,6 +12,18 @@ Collection of my university assignments and coding projects (Year 1-Present)
 
 * **Tools:** Git, VS Code, SQL, Node.js
 
+## 🚀 The Most interesting Project
+
+1. **[Microsoft AI-Expense Sharing App](https://github.com/AI-powered-expense-sharing-app)** 
+    * Role: Frontend Developer 
+    * Tech: React, CSS
+    * Concept: An app for splitting the bills with AI-powered OCR for receipts.
+
+2. **Full-Stack Music Application (CS230)**
+    * Role: Full-Stack Developer
+    * Tech: HTML, CSS, JavaScript, REST API design, SQLite persistence
+    * Concept: Small Music Library system
+    * Status: in development
 
 
 ## 📂 Repository Structure
@@ -44,15 +56,3 @@ Collection of my university assignments and coding projects (Year 1-Present)
 
 
 
-## 🚀 The Most interesting Project
-
-1. **[Microsoft AI-Expense Sharing App](https://github.com/AI-powered-expense-sharing-app)** 
-    * Role: Frontend Developer 
-    * Tech: React, CSS
-    * Concept: An app for splitting the bills with AI-powered OCR for receipts.
-
-2. **Full-Stack Music Application (CS230)**
-    * Role: Full-Stack Developer
-    * Tech: HTML, CSS, JavaScript, REST API design, SQLite persistence
-    * Concept: Small Music Library system
-    * Status: in development
